@@ -54,7 +54,7 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.7</version>
         </dependency>
-
+        <!-- fastdfs-client 依赖-->
         <dependency>
             <groupId>com.github.tobato</groupId>
             <artifactId>fastdfs-client</artifactId>
